@@ -24,7 +24,7 @@ A simple Python script to download content (including `.jpg` and `.png` files) f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/url-content-downloader.git
+   git clone https://github.com/rahul886297/url-content-downloader.git
 
 2. Navigate to the folder:
 
